@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Saikat </h1>
+<h1 align="center">Hi 👋, I'm Saikat</h1>
 <h3 align="center">
 Software Developer | ASP.NET Core | C# | JavaScript | jQuery | .NET MAUI
 </h3>
@@ -8,7 +8,7 @@ Software Developer | ASP.NET Core | C# | JavaScript | jQuery | .NET MAUI
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shoikat-Ahmed&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Nur-saikat&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -18,8 +18,8 @@ Software Developer | ASP.NET Core | C# | JavaScript | jQuery | .NET MAUI
 💻 I am a passionate **Software Developer** with strong experience in  
 **ASP.NET Core, C#, JavaScript, jQuery & SQL Server**
 
-📱 I build **cross-platform apps using .NET MAUI**  
-🏢 Worked on **ERP, Attendance, Payroll & Biometric Systems**  
+📱 I build **cross-platform applications using .NET MAUI**  
+🏢 Experienced in **ERP, Attendance, Payroll & Biometric Systems**  
 🔐 Strong in **Business Logic, Stored Procedures & API Integration**
 
 <p align="center">
@@ -32,8 +32,8 @@ Software Developer | ASP.NET Core | C# | JavaScript | jQuery | .NET MAUI
 
 ✔ Designing real-world ERP systems  
 ✔ Writing optimized SQL Stored Procedures  
-✔ Building secure REST APIs  
-✔ Integrating Web, Desktop & Mobile apps  
+✔ Building secure & scalable REST APIs  
+✔ Integrating Web, Desktop & Mobile applications  
 ✔ Converting business requirements into clean, maintainable code  
 
 ---
@@ -73,7 +73,7 @@ Software Developer | ASP.NET Core | C# | JavaScript | jQuery | .NET MAUI
 ✔ Leave & Reports  
 
 **Tech:** ASP.NET Core, SQL Server, JavaScript, jQuery  
-🔗 Repo: *(Add Link)*
+🔗 Repo: *(Add GitHub Link)*
 
 ---
 
@@ -83,17 +83,17 @@ Software Developer | ASP.NET Core | C# | JavaScript | jQuery | .NET MAUI
 ✔ Stored Procedure Based Business Rules  
 
 **Tech:** ASP.NET Core, SQL Server  
-🔗 Repo: *(Add Link)*
+🔗 Repo: *(Add GitHub Link)*
 
 ---
 
 ### 📱 .NET MAUI Attendance App
 ✔ Cross-platform (Android / Windows)  
 ✔ API Integrated  
-✔ Offline-ready Structure  
+✔ Offline-ready Architecture  
 
-**Tech:** .NET MAUI, Web API  
-🔗 Repo: *(Add Link)*
+**Tech:** .NET MAUI, ASP.NET Core Web API  
+🔗 Repo: *(Add GitHub Link)*
 
 ---
 
@@ -102,18 +102,18 @@ Software Developer | ASP.NET Core | C# | JavaScript | jQuery | .NET MAUI
 - Advanced ASP.NET Core Architecture
 - SQL Server Performance Optimization
 - Clean Architecture & Design Patterns
-- Production-ready .NET MAUI Apps
+- Production-ready .NET MAUI Applications
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoikat-Ahmed&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nur-saikat&show_icons=true&theme=default&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoikat-Ahmed&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nur-saikat&theme=default" />
 </p>
 
 ---
@@ -122,13 +122,13 @@ Software Developer | ASP.NET Core | C# | JavaScript | jQuery | .NET MAUI
 
 📧 Email: **abdurnursaikat04@gmail.com**  
 💼 LinkedIn: https://www.linkedin.com/in/abdur-nur-saikat-56ba4a203  
-🌐 GitHub: https://github.com/Shoikat-Ahmed  
+🌐 GitHub: https://github.com/Nur-saikat  
 
 ---
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/Shoikat-Ahmed/Shoikat-Ahmed/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Nur-saikat/Nur-saikat/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
