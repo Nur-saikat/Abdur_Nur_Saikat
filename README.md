@@ -1,101 +1,91 @@
-# 👋 Hi, I'm Shoikat Ahmed
+<h1 align="center">Hi 👋, I'm Shoikat Ahmed</h1>
+<h3 align="center">Software Developer | ASP.NET Core | C# | SQL Server</h3>
 
-## 💻 Software Developer | ASP.NET Core | C# | SQL Server
-
-আমি একজন Software Developer, যিনি ASP.NET Core, C#, SQL Server ও Vue.js নিয়ে কাজ করি।  
-ERP System, Attendance ও Payroll System ডেভেলপমেন্টে বাস্তব অভিজ্ঞতা আছে।
-
----
-
-## 🚀 Skills
-
-### 🔹 Backend
-- C#
-- ASP.NET Core
-- Web API
-- Entity Framework Core
-
-### 🔹 Frontend
-- Vue.js
-- HTML, CSS
-- Bootstrap
-
-### 🔹 Database
-- SQL Server
-- Stored Procedure
-- Views & Functions
-
-### 🔹 Tools & Others
-- Git & GitHub
-- Visual Studio
-- REST API
-- JWT Authentication
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shoikat-Ahmed&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Projects
+## 🚀 About Me
 
-### 📌 Attendance & Payroll Management System
-**Description:**  
-Employee attendance tracking, salary calculation, leave & payroll management system.
-
-**Technology Used:**
-- ASP.NET Core
-- SQL Server
-- Vue.js
-
-**Features:**
-- Employee Attendance
-- Payroll Calculation
-- Role-based Access
-- Report Generation
-
-🔗 GitHub: *(Add project link here)*
+💻 I am a passionate **Software Developer** specializing in **ASP.NET Core**, **C#**, and **SQL Server**.  
+🏢 Experienced in **ERP, Attendance & Payroll Systems**  
+🔐 Strong in **Stored Procedures, API Development & Business Logic**  
+📈 Focused on building **scalable & secure applications**
 
 ---
 
-### 📌 ERP Management System
-**Description:**  
-ERP system with announcement, personnel, loan proposal & verification modules.
+## 🛠️ Tech Stack
 
-**Technology Used:**
-- ASP.NET Core
-- SQL Server (Stored Procedure based)
-- Vue.js
+### 💡 Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-00599C?style=for-the-badge)
 
-**My Role:**
-- Database Design
-- Stored Procedure Logic
-- API Development
+### 🎨 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
-🔗 GitHub: *(Add project link here)*
+### 🗄️ Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![Stored Procedure](https://img.shields.io/badge/Stored_Procedure-black?style=for-the-badge)
 
----
-
-### 📌 Biometric Attendance Desktop App
-**Description:**  
-Desktop-based biometric attendance system integrated with ASP.NET Core API.
-
-**Technology Used:**
-- C#
-- Windows Forms / WPF
-- ASP.NET Core API
-
-🔗 GitHub: *(Add project link here)*
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shoikat-Ahmed&show_icons=true)
+## 📂 Featured Projects
+
+### 🧾 Attendance & Payroll Management System
+🔹 Employee attendance, salary & leave management  
+🔹 Payroll calculation with business rules  
+
+**Tech:** ASP.NET Core, SQL Server, Vue.js  
+🔗 Repo: *(Add GitHub Link)*
 
 ---
 
-## 📫 Contact Me
+### 🏢 ERP Management System
+🔹 Announcement, Personnel & Loan Proposal Module  
+🔹 Smart Card & NID Verification Logic  
 
-- 📧 Email: abshoikat@shakti.org.bd
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 🌐 GitHub: https://github.com/Shoikat-Ahmed
+**Tech:** ASP.NET Core, SQL Server (SP Based)  
+🔗 Repo: *(Add GitHub Link)*
 
 ---
 
-⭐ **I am always eager to learn new technologies and build scalable software solutions.**
+### 🖐️ Biometric Attendance Desktop App
+🔹 Desktop-based biometric system  
+🔹 ASP.NET Core API integration  
+
+**Tech:** C#, WinForms/WPF, Web API  
+🔗 Repo: *(Add GitHub Link)*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shoikat-Ahmed&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoikat-Ahmed&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Information
+
+📧 Email: **abshoikat@shakti.org.bd**  
+💼 LinkedIn: *(Add Your LinkedIn URL)*  
+🌐 GitHub: https://github.com/Shoikat-Ahmed  
+
+---
+
+⭐ *“Clean Code, Strong Logic & Scalable Architecture”*
